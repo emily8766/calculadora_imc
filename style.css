@@ -1,0 +1,51 @@
+.container{
+    width: 90%;
+    background-color: greenyellow;
+    margin: 0 auto;
+}
+
+h1 , h2{
+    color: rgb(161, 161, 161);
+    text-align: center;
+}
+
+.titulo{
+    border-bottom: solid 2px grey;
+    font-family: Snell Roundhand, cursive;
+
+}
+
+.titulo>p{
+    padding: 0 20%;
+
+}
+
+.calculadora{
+    margin-left: 30%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    width: 400px;
+    height: 300px;
+    border: solid rgb(45, 117, 27) 2px;
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+button{
+    font-size: 20px;
+    margin-left: 200px;
+    height: 50px;
+
+}
+
+
+.rodape{
+    text-align: center;
+}
+
+.resultado{
+    width: 80%;
+    margin: 10% 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
